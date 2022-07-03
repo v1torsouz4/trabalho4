@@ -1,3 +1,5 @@
+import "./Coluna.css"
+
 function Coluna({logo, texto}) {
 
     return(
