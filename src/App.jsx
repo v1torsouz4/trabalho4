@@ -1,5 +1,6 @@
 import Coluna from "./Coluna.jsx"
 import Coluna2 from "./Coluna2.jsx"
+import "./Coluna.css"
 
 function App(){
 

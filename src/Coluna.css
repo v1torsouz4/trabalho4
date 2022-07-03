@@ -1,0 +1,52 @@
+.part1{
+
+    display: flex; 
+
+}
+
+.part2{
+
+    display: flex;
+
+}
+
+
+.botao:hover{
+
+    background-color: rgb(221, 221, 221) ;
+
+}
+
+.botao{
+
+    width: 100px;
+
+    border: none;
+
+    background-color: white;
+
+    cursor: pointer;
+
+}
+
+.centro{
+
+    flex-wrap: wrap;
+
+}
+
+.principal{
+
+    margin-left: 280px;
+
+    margin-top: 50px;
+
+}
+
+.imagem{
+    
+    height: 20px;
+
+    width: 20px;
+
+}
